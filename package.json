@@ -55,7 +55,8 @@
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom",
-    "deploy": "npm run build && gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "jest": {
     "collectCoverageFrom": [
@@ -89,5 +90,5 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "www.reactd3js.com"
+  "homepage": "https://www.reactd3js.com"
 }
