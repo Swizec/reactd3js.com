@@ -9,7 +9,11 @@ import './css/bootstrap-custom-utils.css';
 import './css/salesbury-lilac.css';
 //import './css/salesbury-bg-grid_light_wool.css';
 
+import * as OfflinePluginRuntime from 'offline-plugin/runtime';
+OfflinePluginRuntime.install();
+
 import * as Content from './Content';
+
 
 class App extends Component {
     render() {

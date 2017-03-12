@@ -11,7 +11,7 @@ export const Header = () => (
         <Row>
             <Col md={10} mdOffset={1}>
 	    <h1>Become a data visualization engineer</h1>
-	    <p className="lead">React with d3.js in ES6 is the best way to <b>turn data into knowledge</b>.</p>
+	    <p className="lead">React with D3v4 is the best way to <b>turn data into knowledge</b>.</p>
             </Col>
 	</Row>
     </header>
