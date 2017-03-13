@@ -1,0 +1,11 @@
+
+.testimonial-carousel .carousel-control {
+    display: none;
+}
+.testimonial-carousel .carousel-indicators {
+    bottom: 5px;
+}
+.carousel-control {
+    background: rgba(0, 0, 0, 0) !important;
+    font-size: 3.5em;
+}
