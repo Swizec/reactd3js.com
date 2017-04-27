@@ -46,22 +46,22 @@ class App extends Component {
                     </HalfColumn>
 
                     <HalfColumn>
-                        <h2 className="text-center">The workshop</h2>
+                        <h2 className="text-center">In-person training</h2>
                         <p className="lead">
                             Learn <b>in person</b> with a <b>group of peers</b>, get <b>detailed walkthroughs</b> for several fun projects, <b>ask anything</b>. We help you solve your specific problem.
                         </p>
 
                         <p>&nbsp;</p>
 
-                        <h3>Next workshop: March 25th in San Francisco</h3>
+                        <h3>Next training: May 22nd in Chicago</h3>
 
                         <p>
-                            <a href="https://www.eventbrite.com/e/javascript-workshop-reactd3v4-tickets-32708332503">
-                                <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29174463%2F445634759%2F1%2Foriginal.jpg?w=800&rect=59%2C0%2C1340%2C670&s=0c085262fc7fcda49bd88caca3a3d540" title="React+D3v4 workshop in San Francisco" style={{width: '100%'}} />
+                            <a href="https://www.eventbrite.com/e/react-d3v4-for-data-visualization-in-person-training-tickets-33630085491?aff=reactd3homepage">
+                                <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29174463%2F445634759%2F1%2Foriginal.jpg?w=800&rect=59%2C0%2C1340%2C670&s=0c085262fc7fcda49bd88caca3a3d540" title="React+D3v4 training in San Francisco" style={{width: '100%'}} />
                             </a>
                         </p>
 
-                        <p className="text-center"><a href="https://www.eventbrite.com/e/javascript-workshop-reactd3v4-tickets-32708332503" className="btn btn-success btn-lg">Get Tickets  👉 </a></p>
+                        <p className="text-center"><a href="https://www.eventbrite.com/e/react-d3v4-for-data-visualization-in-person-training-tickets-33630085491?aff=reactd3homepage" className="btn btn-success btn-lg">Get Tickets  👉 </a></p>
                     </HalfColumn>
                 </LowSection>
             </div>
